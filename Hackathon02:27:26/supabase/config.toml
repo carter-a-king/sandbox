@@ -1,0 +1,5 @@
+[project]
+id = "sql-preflight"
+
+[api]
+port = 54321
